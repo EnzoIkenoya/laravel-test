@@ -5,7 +5,7 @@
  < --- 画面の画像 --- >
  ![スクリーンショット (42)](https://user-images.githubusercontent.com/113238642/220021626-6b2606fe-ee2f-439d-a7d6-627701819b36.png)
 ![スクリーンショット (43)](https://user-images.githubusercontent.com/113238642/220021760-98a9e884-1d08-43f5-a953-075a9a0d9725.png)
-![スクリーンショット (44)](https://user-images.githubusercontent.com/113238642/220021790-d698de56-ae3c-404f-b395-595a5aadc0cc.png)
+![スクリーンショット (44)](https://user-images.githubusercontent.com/113238642/220029167-c1278bcf-1bcb-4206-a0b6-8d7a642bf96e.png)
 ![スクリーンショット (45)](https://user-images.githubusercontent.com/113238642/220021814-b0ebe3df-0954-4406-afe4-110facfadff7.png)
 
 ##　作成した理由
